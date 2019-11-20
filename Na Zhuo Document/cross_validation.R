@@ -2,8 +2,8 @@
 ### Cross Validation ###
 ########################
 
-### Author: Chengliang Tang
-### Project 3
+### Author: Na Zhuo
+### Project 4
 
 cv.function <- function(dat_train, K, f, U, V, sigma, sigma_q, sigma_p){
   ### Input:
